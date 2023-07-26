@@ -12,7 +12,7 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Bantayog Regular', sans-serif;
   }
   body {
-    background-color: #32bbe6;
+    background-color: #f0ba8e;
 
     
 
